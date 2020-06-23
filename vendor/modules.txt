@@ -1,0 +1,5 @@
+# github.com/go-logr/logr v0.2.0
+github.com/go-logr/logr
+# k8s.io/klog/v2 v2.2.0
+## explicit
+k8s.io/klog/v2
