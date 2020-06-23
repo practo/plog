@@ -1,3 +1,3 @@
 # plog
 
-plog is a wrapper over [klog](https://github.com/kubernetes/klog) which supports 
+plog is a wrapper over [klog](https://github.com/kubernetes/klog) which supports hooks
